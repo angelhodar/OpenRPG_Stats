@@ -33,3 +33,7 @@
 
 * Over a specific time duration (or permanent), you can set a tick interval and create your own funcionality when the tick is executed.
 * Also displayable as buffs.
+
+## Documentation
+
+You can find full documentation and tutorials about the system [here](https://openrpg-stats.readthedocs.io/en/latest/). I will be expanding it in my free time with engine pics and more, but with the actual content you can understand every aspect of the system.
